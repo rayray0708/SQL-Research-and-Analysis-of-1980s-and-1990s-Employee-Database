@@ -14,4 +14,5 @@ In this SQL challenge, I'm tasked with doing a research project about people who
 Special thanks to these individuals for their contribution to the project:
 
 -BSC tutor
+
 -Learning assistants
