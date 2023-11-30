@@ -1,5 +1,5 @@
 ![Illustration of SQL](https://usa.bootcampcdn.com/wp-content/uploads/sites/106/2020/03/SQL-Coding-Class-San-Francisco-1.jpeg)
-# sql-challenge
+# SQL-Research-and-Analysis-Project
 ---
 ## Description 
 In this SQL challenge, I'm tasked with doing a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files. I've designed the tables to hold the data from the CSV files (e.g., data modelling), imported the CSV files into a SQL database (i.e., data modelling), and then answered some questions about the data (i.e., data analysis). 
