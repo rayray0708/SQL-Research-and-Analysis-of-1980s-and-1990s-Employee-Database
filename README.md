@@ -10,6 +10,16 @@ In this SQL challenge, I'm tasked with doing a research project about people who
 -To see the table schemata, please navigate to Schema(EmployeesSQL) file.
 
 -To see query answers, please navigate to Queries(EmployeesSQL) file.
+
+## Installations
+The following dependencies were installed to run the code:
+1. PosgreSQL: which can be downloaded here `https://www.postgresql.org/download/`
+
+## Employee database analysis
+An ERD of the tables used for this project was created using Lucidchart: 
+![Alt text](<Screenshot 2023-12-18 at 1.20.17 pm.png>)
+
+
 ## Credits
 Special thanks to these individuals for their contribution to the project:
 
